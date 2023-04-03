@@ -1,0 +1,6 @@
+{
+  "[typescript][typescriptreact][rust]": {
+    "coc.preferences.formatOnSave": true,
+    "inlayHint.enable": true 
+  }
+}
